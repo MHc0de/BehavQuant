@@ -1,4 +1,5 @@
-# BehavQuant(Deep Learning-Based Analysis of Rat Social Interaction)
+# BehavQuant
+# (Deep Learning-Based Analysis of Rat Social Interaction)
 This pipeline uses YOLOv8 for object detection and BoT-SORT for tracking to estimate rat position and automatically measure behavioral variables. It enables consistent behavior data extraction from raw experimental videos. The dataset used for training was provided by Roboflow (https://universe.roboflow.com/2024-project1/cos_bbox_test).
 
 ## Overview
@@ -18,7 +19,7 @@ The analysis pipeline includes:
 5. Linear interpolation of missing bounding-box coordinates
 6. Visualization of detected bounding boxes for verification
 7. Calculation of behavioral and social interaction variables
-8. 
+ 
 <img width="747" height="835" alt="image" src="https://github.com/user-attachments/assets/d6277d42-7f03-4b82-aeec-712be932e25b" />
 
 
