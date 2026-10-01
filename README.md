@@ -18,6 +18,9 @@ The analysis pipeline includes:
 5. Linear interpolation of missing bounding-box coordinates
 6. Visualization of detected bounding boxes for verification
 7. Calculation of behavioral and social interaction variables
+8. 
+<img width="747" height="835" alt="image" src="https://github.com/user-attachments/assets/d6277d42-7f03-4b82-aeec-712be932e25b" />
+
 
 The YOLOv8 model was trained using 3,101 labeled images extracted from experimental videos. Images were annotated using Roboflow and randomly divided into training (70%), validation (20%), and test (10%) datasets. The pretrained `yolov8l.pt` model was trained for 1,000 epochs with a batch size of 32, and the resulting `best.pt` model was used for subsequent video analysis.
 
