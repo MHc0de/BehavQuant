@@ -44,7 +44,9 @@ Seo, M., Bae, S.-G., & Noh, J. (2025). The impact of partner interaction on brie
 ### Software and Algorithms
 
 Jocher, G., Chaurasia, A., & Qiu, J. (2023). *Ultralytics YOLO* [Computer software]. https://github.com/ultralytics/ultralytics
+
 Aharon, N., Orfaig, R., & Bobrovsky, B.-Z. (2022). BoT-SORT: Robust associations multi-pedestrian tracking. *arXiv*. https://doi.org/10.48550/arXiv.2206.14651
+
 Dwyer, B., Nelson, J., Hansen, T., et al. (2024). *Roboflow (Version 1.0)* [Software]. https://roboflow.com
 
 ## Contact
